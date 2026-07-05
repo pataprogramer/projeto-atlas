@@ -1,4 +1,4 @@
-print('O titã desperta')
+print('Atlas ressurge na master')
 print('A jornada finalmente começa')
 print('Aqui começa um sonho')
 print('Ninguém poderá nos parar')
