@@ -1,4 +1,7 @@
 # 🗺️ Projeto Atlas
+![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
+![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 > *"O titã que sustenta o céu — e, aqui, a plataforma que aprende a sustentar um negócio inteiro."*
 
