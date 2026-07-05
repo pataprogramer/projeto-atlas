@@ -38,6 +38,13 @@ Cada capítulo termina com um projeto-chefão que integra tudo o que foi aprendi
 - ✅ **Capítulo 00 — O Despertar do Arquiteto**: ambiente configurado, Git dominado, repositório publicado.
 - 🔄 **Capítulo 01 — A Linguagem dos Deuses**: em andamento.
 
+## Roadmap
+
+- [x] Capítulo 00 — O Despertar do Arquiteto
+- [ ] Capítulo 01 — A Linguagem dos Deuses
+- [ ] Capítulo 02 — A Ordem das Coisas
+- [ ] Capítulo 03 — A Memória de Pedra
+- [ ] ... (os demais capítulos, conforme for avançando)
 ## Sobre mim
 
 Sou o Luccas, estudante do ensino médio construindo este projeto durante minhas horas de estudo — com a meta de transformar cada capítulo em algo real, testável e que me deixe orgulhoso de mostrar.
